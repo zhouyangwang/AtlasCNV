@@ -1,4 +1,5 @@
 # Atlas-CNV
+This Software is python3 version of Atlas-CNV(https://github.com/theodorc/Atlas-CNV). All rights belong to author theodorc.
 
 ## Overview
 Atlas-CNV is a method to identify copy number variants (CNVs) using Read Depth coverage at the exon level in the next-generation sequencing (NGS) of Gene Targeted Panels. Target Exons of CNVs are detected within a batch of samples (47) from the same probe capture experiment (midpool). Individually detected exons are C-scored (Z-like scores) which allows for prioritization of high quality CNVs especially for single-exon deletions or duplications. Gene and exon bar plots are also produced for additional evaluation. 
